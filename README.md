@@ -151,22 +151,22 @@ Possible extensions
 ![wireframe](./docs/wireframes/wireframe.png)
 
 
-![wireframe](./docs/wireframes/home.png)
+![wireframe](./docs/wireframes/HOME.png)
 
 
-![wireframe](./docs/wireframes/about.png)
+![wireframe](./docs/wireframes/About.png)
 
 
 ![wireframe](./docs/wireframes/menu.png)
 
 
-![wireframe](./docs/wireframes/contact.png)
+![wireframe](./docs/wireframes/CONTACT.png)
 
 
 ![wireframe](./docs/wireframes/login.png)
 
 
-![wireframe](./docs/wireframes/design.png)
+![wireframe](./docs/wireframes/Design.png)
 
 
 > # R6 Screenshots of your Trello board throughout the duration of the project
