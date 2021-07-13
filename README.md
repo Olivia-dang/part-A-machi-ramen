@@ -148,7 +148,26 @@ Possible extensions
 
 > # R5 Wireframes
 
-![alt text](image.jpg)
+![wireframe](./docs/wireframes/wireframe.png)
+<br>
+
+![wireframe](./docs/wireframes/home.png)
+<br>
+
+![wireframe](./docs/wireframes/about.png)
+<br>
+
+![wireframe](./docs/wireframes/menu.png)
+<br>
+
+![wireframe](./docs/wireframes/contact.png)
+<br>
+
+![wireframe](./docs/wireframes/login.png)
+<br>
+
+![wireframe](./docs/wireframes/design.png)
+
 
 > # R6 Screenshots of your Trello board throughout the duration of the project
 - Day 1: Discuss ideas and divide tasks. For Part A, the tasks are quite straight-forward so we use first 5 lists: 
