@@ -149,22 +149,22 @@ Possible extensions
 > # R5 Wireframes
 
 ![wireframe](./docs/wireframes/wireframe.png)
-<br>
+
 
 ![wireframe](./docs/wireframes/home.png)
-<br>
+
 
 ![wireframe](./docs/wireframes/about.png)
-<br>
+
 
 ![wireframe](./docs/wireframes/menu.png)
-<br>
+
 
 ![wireframe](./docs/wireframes/contact.png)
-<br>
+
 
 ![wireframe](./docs/wireframes/login.png)
-<br>
+
 
 ![wireframe](./docs/wireframes/design.png)
 
